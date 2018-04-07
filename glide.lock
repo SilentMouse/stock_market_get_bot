@@ -1,0 +1,10 @@
+hash: 666dc6f1a73edbd97c4a52a70bbf1178dd39fd6a68faa7d5de1c106ebabcdf6c
+updated: 2018-04-01T14:41:25.070333149+03:00
+imports:
+- name: github.com/Syfaro/telegram-bot-api
+  version: 0e0af0c480ea98e982d5f4d45fb39577c6ab1e3e
+- name: github.com/technoweenie/multipartstreamer
+  version: a90a01d73ae432e2611d178c18367fbaa13e0154
+- name: gopkg.in/telegram-bot-api.v4
+  version: 0e0af0c480ea98e982d5f4d45fb39577c6ab1e3e
+testImports: []
